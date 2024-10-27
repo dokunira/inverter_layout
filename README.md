@@ -10,4 +10,4 @@ connpass id : [carbon_hero](https://connpass.com/user/carbon_hero/)
 |NMOS| 2 | 1 |
 
 ## 感想
-以前からオープンソースのレイアウトソフトであるklayoutで設計したいと思ってはいたのですが取り組めておりませんでした。今回教えてもらいながらやることで短時間で設計することができました。Design Rules Check (DRC) や xschem と連携した Layout Versus Schematic (LVS) などのレイアウト検証もでき大変満足しております。お絵描き感覚で簡単にできたのでさらなるオレオレチップの設計をしていこうと思います。
+以前からオープンソースのレイアウトソフト「KLayout」で設計を行いたいと思っていましたが、なかなか取り組む機会がありませんでした。今回は教えていただきながら進めたことで、短時間で設計を完了することができました。Design Rules Check (DRC) や xschemとの連携による Layout Versus Schematic (LVS) などのレイアウト検証も行え、大変満足しています。ありがとうございました。
