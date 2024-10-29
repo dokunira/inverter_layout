@@ -37,7 +37,7 @@ W=4u
 L=1u
 m=1
 }
-C {xschem/symbols/OR1/primitives/nfet.sym} -10 110 0 0 {name=M2 
+C {primitives/nfet.sym} -10 110 0 0 {name=M2 
 model=nchor1ex
 W=2u
 L=1u
